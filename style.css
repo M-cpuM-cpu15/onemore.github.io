@@ -1,0 +1,70 @@
+body{
+    color: white;
+    background-image: url(forest.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    margin-top: 55px;
+    margin-left: 25px;
+
+}
+h1{
+    border:solid;
+    padding: 10px;
+    text-align: center;
+    border-top-width: 10px;
+    border-style: solid;
+    color:white;
+    background-color: black;
+    border-radius: 10px;
+}
+hr{
+    width: 250px;
+    background-color: black;
+    height: 1px;
+}
+h2{
+    border: solid;
+    border-radius: 10px;
+    text-align: center;
+    border-color: white;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}
+button{
+    background-color: green;
+    color: white;
+    border: solid;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: green;
+    text-align: center;
+
+
+}
+:hover button{
+    color: black;
+    background-color:lightgreen;
+    border-color: lightgreen;
+}
+.odd{
+    margin-left: 130px;
+    margin-top: -030px;
+    color: black;
+    border: solid;
+    text-align: center;
+    width:195px;
+    background-color: gold;
+    border-radius: 15px;
+    border-color: gold;
+
+
+}
+:hover .odd{
+    color:blue;
+    
+}
